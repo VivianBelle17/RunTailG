@@ -10,7 +10,7 @@ body {
 #unity-container { position: fixed; width: 100%; height: 100%; }
 #unity-canvas {
   width: 768px;
-  height: 1024px;
+  height: 1025px;
   background: #231F20;
   display: block;
   margin: 0 auto;
